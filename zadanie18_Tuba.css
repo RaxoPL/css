@@ -1,0 +1,49 @@
+body{
+    background-color: green;
+}
+
+
+#blok1{
+background-color: silver;
+width: 1007px;
+}
+#blok1>p{
+font-size: 1.1cm;
+}
+#blok1>span{
+    color: maroon;
+    font-size: 1.5cm;
+}
+#blok1>ul{
+font-size: 0.7cm;
+list-style-type: square;
+color: purple;
+}
+
+
+#blok2{
+background-color: red;
+width: 1107px;
+}
+#blok2>ul{
+list-style-type: circle;
+color: purple;
+font-size: 8mm;
+}
+#blok2>span{
+color: silver;
+font-size: 1cm;
+}
+
+#blok3{
+background-color: maroon;
+width: 1207px;
+}
+#blok3>ul{
+color: red;
+font-size: 7mm;
+}
+#blok3>span{
+color: silver;
+font-size: 0.9cm;
+}
