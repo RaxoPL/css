@@ -1,8 +1,8 @@
 h3 { 
  width: 200pt;
- height: 3cm;
+ height: 2cm;
  padding : 20px;
- margin-left : 500px;
- border : 10px inset #800080;
+ margin-right : 10px;
+ border : 10px inset #FF0000;
  background : #f08080;
  }
