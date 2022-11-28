@@ -3,6 +3,6 @@ h3 {
  height: 2cm;
  padding : 20px;
  margin-right : 10px;
- border : 10px inset #FF0000;
+ border : 10px outset #FF0000;
  background : #f08080;
  }
